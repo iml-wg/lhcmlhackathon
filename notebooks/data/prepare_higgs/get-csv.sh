@@ -2,5 +2,5 @@
 #!/bin/bash
 wget https://archive.ics.uci.edu/ml/machine-learning-databases/00280/HIGGS.csv.gz
 
-unzip -d HIGGS.csv.gz
+gunzip -d HIGGS.csv.gz
 
