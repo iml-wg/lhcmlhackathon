@@ -15,3 +15,9 @@ And finally lets to create the ROOT file executing
 ```
 root -b -l -q csv2root.C
 ```
+
+# Download prepared ROOT file
+
+You can download a prepared ROOT file  from
+
+https://cernbox.cern.ch/index.php/s/nNcMcVuK1kpPnEd
